@@ -22,7 +22,7 @@ const Contact = () => {
       });
   };
   return (
-    <section id='contact'>
+    <section>
 
     <h5>Get In Touch</h5>
     <h2>Contact Me</h2>

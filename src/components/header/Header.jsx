@@ -3,11 +3,13 @@ import './header.css'
 import CTA from '../header/CTA'
 import ME from '../../assets/me.png'
 import HeaderSocials from './HeaderSocials'
+import { Animator, batch, Fade, FadeIn, MoveIn, MoveOut, ScrollContainer, ScrollPage, Sticky, StickyIn, Zoom, ZoomIn } from 'react-scroll-motion'
+import '../../index.css'
 
 
 const Header = () => {
   return (
-    <header>
+      <header>
       <div className="container header_container">
         <h5>Hi I'm</h5>
         <h1>Jocsan Barquero Chaves</h1>

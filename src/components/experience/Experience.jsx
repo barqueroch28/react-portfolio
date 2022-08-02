@@ -3,7 +3,7 @@ import './experience.css'
 import {BsFillPatchCheckFill} from 'react-icons/bs'
 const Experience = () => {
   return (
-    <section id='experience'>
+    <section >
       <h5>What Skills I Have</h5>
       <h2>My experience</h2>
 
