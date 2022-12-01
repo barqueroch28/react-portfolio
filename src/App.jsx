@@ -22,35 +22,35 @@ const App = () => {
     <ScrollContainer>
     <section id='header' className='root-section'>
     <ScrollPage page={0}>
-      <Animator animation={batch(Fade(), MoveOut(0, 300))}>   
+      <Animator animation={batch(Fade(), MoveOut())}>   
       <Header />
     </Animator>
     </ScrollPage>
     </section>
     <section id='about' className='root-section'>
       <ScrollPage page={1}>
-      <Animator animation={batch(FadeIn(), Move(0, -200))}>
+      <Animator animation={batch(FadeIn(), Move())}>
       <About />
       </Animator>
       </ScrollPage>
       </section>
       <section id='experience' className='root-section'>
       <ScrollPage  page={2}>
-      <Animator animation={batch(Fade(), Move(0, -400))}>
+      <Animator animation={batch(Fade(), MoveOut())}>
       <Experience />
       </Animator>
       </ScrollPage>
       </section>
       <section id='services' className='root-section'>
       <ScrollPage page={3}>
-      <Animator animation={batch(Fade(), Move(0, -500))}>
+      <Animator animation={batch(FadeIn(), Move())}>
       <Services />
       </Animator>
       </ScrollPage>
       </section>
       <section id='contact' className='root-section'>
       <ScrollPage page={4}>
-      <Animator animation={batch(Fade(), Move(0, -400))}>
+      <Animator animation={batch(Fade(), MoveOut())}>
       <Contact />
       </Animator>
       </ScrollPage>

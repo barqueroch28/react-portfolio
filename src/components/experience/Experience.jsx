@@ -51,40 +51,40 @@ const Experience = () => {
         {/* END OF FRONTEND */}
 
         <div className="expererience_backend">
-        <h3>Frontend Development</h3>
+        <h3>Azure cloud skills</h3>
           <div className="experience_content">
           <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>HTML</h4>
+              <h4>Web Apps</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>CSS</h4>
+              <h4>Fuynction Apps</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>JavaScript</h4>
+              <h4>WebJobs</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>Bootstrap</h4>
+              <h4>Azure Static Web Apps</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-              <h4>React</h4>
+              <h4>Deployments (MS deploy, Azure DevOps, Zip deploy, FTP deploy)</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>

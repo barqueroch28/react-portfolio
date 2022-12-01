@@ -13,7 +13,7 @@ const Header = () => {
       <div className="container header_container">
         <h5>Hi I'm</h5>
         <h1>Jocsan Barquero Chaves</h1>
-      <h5 className="text-light">Frontend Developer and Azure Tecnichal Support Engineer</h5>
+      <h5 className="text-light">Frontend Developer and Azure App services Engineer</h5>
 
       <CTA />
       <HeaderSocials/>

@@ -30,18 +30,18 @@ const About = () => {
 
             <article className="about_card">
               <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worlwide</small>
+              <h5>Tek Experts</h5>
+              <small>working at</small>
             </article>
 
             <article className="about_card">
               <VscFolderLibrary className='about_icon'/>
-              <h5>Experience</h5>
+              <h5></h5>
               <small>80+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus inventore distinctio ipsum possimus facere officia odit dolor commodi velit doloremque pariatur consequuntur, assumenda corporis optio voluptatum iste vel eveniet laborum.
+          <p>I am a advanced student systems engineer from ULACIT, which works at Tek Experts as a support engineer to Microsoft Azure in the department of App Services, specifically in development and open source software area.
 
           </p>
 
